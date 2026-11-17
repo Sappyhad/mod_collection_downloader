@@ -1,0 +1,2 @@
+playwright>=1.48
+sv-ttk>=2.6

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment created by start.bat
+.venv/
+
+# Browser profiles with the Nexus Mods login session - never commit
+.browser_profile/
+
+# Download history (only if a download folder ends up inside the repo)
+.downloaded.json
+
+# IDE settings
+.idea/
