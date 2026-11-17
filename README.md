@@ -11,6 +11,7 @@
 [![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-Collections-DA8E35)](https://www.nexusmods.com/)
 [![Last commit](https://img.shields.io/github/last-commit/Sappyhad/mod_collection_downloader)](https://github.com/Sappyhad/mod_collection_downloader/commits)
 [![Repo size](https://img.shields.io/github/repo-size/Sappyhad/mod_collection_downloader)](https://github.com/Sappyhad/mod_collection_downloader)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
 
@@ -129,6 +130,12 @@ Slow download is slow (around 1–3 MB/s) and a big collection can be over 10 GB
 
 > [!WARNING]
 > **Never send the `.browser_profile/` folder to anyone** – it contains your Nexus Mods session. It is excluded from git by `.gitignore`.
+
+---
+
+## 📜 License
+
+[MIT](LICENSE) © Sappyhad
 
 ---
 
